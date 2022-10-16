@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.jpa.logging.level.org.hibernate.SQL",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.logging.level.org.hibernate.SQL."
+  }
+] }
